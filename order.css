@@ -1,5 +1,5 @@
 /* .order{
-    background: url(orderImage/image.png) no-repeat;
+background: url(orderImage/image.png) no-repeat;
 background-size: cover;
 background-position: center;
 margin-top: -40px;
@@ -13,7 +13,6 @@ margin-top: -40px;
     padding:0;
     display:flex;
     margin-top: 40px;margin-left: 200px;
-    
   }
   ul li{
     list-style:none;
@@ -72,7 +71,6 @@ margin-top: -40px;
     height: 100%;
     overflow: hidden;
     margin-top: 8px;
-  
 }
 .order{
     margin-top: -930px;
@@ -86,7 +84,6 @@ margin-top: -40px;
     position: relative;
     z-index: 2;
 }
-
 .order.row{
     display: flex;
  background-color: #fff;
@@ -94,7 +91,6 @@ margin-top: -40px;
  overflow: hidden;
  box-shadow: 0.5rem 1rem rgba(0,0,0,3);
 }
-
 .order form{
     flex: 1 1 60%;
     background: #fff;
@@ -102,7 +98,7 @@ margin-top: -40px;
     width: 40%;
     height: 88vh;
     margin-left: 400px;
-    border-radius: 40px;margin-top: 20px;
+    border-radius: 40px;margin-top: 70px;
 }
 .order .row form .box{
 padding: 1.5rem;
@@ -110,7 +106,7 @@ margin: 1rem 0;
 font-size: 1.5rem;
 color: #333;
 text-transform: none;
-background: #f0f0f0;
+background: #F0F0F0;
 width: 70%;
 margin-left: 90px;
 }
@@ -121,8 +117,7 @@ margin-left: 90px;
     resize: none;
     height: 10rem;
     margin-bottom: 40px;
-
-} 
+}
 .btn{
     border-radius: 20px;
     margin-left: -500px;
@@ -131,7 +126,6 @@ margin-left: 90px;
     font-size: large;
     background-color:#FFCA42;
 }
-
 .heading{
     margin-left: 400px;
     font-size: 50px;
@@ -173,112 +167,3 @@ h3{
     margin-left: -40px;
     margin-top: 20px;font-size: 40px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .footer{
-    background: #dfdcdc;
-    padding: 1rem 7%;
-    margin-top: -3px;
-    height: 45vh;
-    text-decoration: none;
-    position: relative;
-}
-.footer .box-container{
-display: flex;
-flex-wrap: wrap;
-}
-.footer .box-container .box{
-    flex:1 1 25rem;
-    margin: 2rem;
-}
-.footer .box-container .box h3{
-    font-size: 2.5rem;
-    color:#fff;
-    padding: 1rem 0;
-    font-weight: normal;
-}
-.footer .box-container .box p{
-font-size: 1.7rem;
-padding: 1rem;
-}
-.footer .box-container .box a{
-    font-size: 1.7rem;
-    padding: 1rem 0;
-    display: block;
-}
-.footer .box-container .box a:hover{
-    color: var(--yellow);
-}
-.footer .box-container .box p i{
-    padding-right: .5rem;
-    color: var(--yellow);
-}
-.class1{
-    margin-left: 400px;
-    margin-top: -240px;
-}
-.box1{
-    margin-left: 700px;
-margin-top: -180px;
-}
-.box2{
-    margin-left: 1000px;
-margin-top: -225px;
-}
-.class1 a,
-.box1 a,
-.box2 a {
-    text-decoration: none;
-    color: black;
-    font-size: 20px;
-}
-h3{
-    font-size: 30px;
-    color: orange;
-}
-.footer .credit{
-    font-size: 1.5rem;
-    text-align: center;
-    border-top: .2rem solid rgb(255,255,255,.7);
-    padding: 2rem 1rem;
-    letter-spacing: .1rem;
-    font-weight: normal;
-    margin-top: 90px; */
-/* } */

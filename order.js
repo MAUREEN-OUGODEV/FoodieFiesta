@@ -11,12 +11,10 @@ function validateForm() {
     var password = document.getElementById("password").value;
     var quantity = document.getElementById("quantity").value;
     var address = document.getElementById("address").value;
-
     if (name === "") {
         alert("Please enter your name.");
         return false;
     }
-
     if (email === "") {
         alert("Please enter your email.");
         return false;
@@ -26,7 +24,6 @@ function validateForm() {
         alert("Please enter a valid email address.");
         return false;
     }
-
     if (password === "") {
         alert("Please enter your password.");
         return false;
@@ -35,7 +32,6 @@ function validateForm() {
         alert("Password should be at least 6 characters long.");
         return false;
     }
-
     if (quantity === "") {
         alert("Please enter the quantity.");
         return false;
@@ -44,11 +40,9 @@ function validateForm() {
         alert("Please enter a valid quantity.");
         return false;
     }
-
     if (address === "") {
         alert("Please enter your address.");
         return false;
     }
-
     return true;
 }

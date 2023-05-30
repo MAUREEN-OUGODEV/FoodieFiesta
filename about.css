@@ -103,3 +103,11 @@ ul li a:hover:before{
   background-size: cover;
   height: 600px;
  }
+ .food{
+  color: #FFCA42;
+  text-decoration: none;
+ }
+ .para {
+  margin-bottom: 2%;
+  font-size: 18px;
+ }
