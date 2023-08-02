@@ -26,10 +26,7 @@ At a food-themed hackathon, our team collaborated on an e-commerce platform, aim
 
 ## Setup/Installation Requirements
 
-* Live link to view the project <a href="https://foodie-fiesta.netlify.app/">View TingaTing project</a>
-## Some images used
-<img src="./assets/screenshots/screenOne.png" alt="screenshot" />
-<img src="./assets/screenshots/screenTwo.png" alt="screenshot" />
+* Live link to view the project <a href="https://foodie-fiesta.netlify.app/">FoodieFiesta</a>
 
 
 ## Known Bugs
